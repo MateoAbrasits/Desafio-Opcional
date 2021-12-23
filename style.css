@@ -102,4 +102,10 @@ footer p{
         height: calc(100vh - 10px);
     
     }
+    .animal{
+    width: 480px;
+    }
+    .cont-animalitos{
+    width: 480px;
+    }
 }
